@@ -4,13 +4,26 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Developer documentation 
 
-A few resources to get you started if this is your first Flutter project:
+App the screenshot provide in      ...\qtec_tem_mail\app_screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technical Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The general user facing functionality of the app is already documented (see App Functionality), this document should try to connect that to the actual code in the repo: What code is there and does what?
+
+...\qtec_tem_mail\lib\screen
+/home_screen
+action for create account,
+/login_screen
+here is auth
+/signup_screen
+singn up for user 
+
+External APIs
+
+
+Base endpoint: https://api.mail.tm/
+
+
+
